@@ -1,0 +1,12 @@
+# Parts Used in the Flying Ostrich Flight Computer (and Amazon.com links)
+
+- Raspberry Pi 0 Wireless V2 (Pre-Soldered GPIO): https://www.amazon.com/Raspberry-Pi-Zero-WH-Pre-Soldered/dp/B07W3GJTM1/ref=sr_1_7?dchild=1&keywords=pi+0w&qid=1618351269&sr=8-7
+- MPU6050 Data Module: https://www.amazon.com/Gy-521-MPU-6050-MPU6050-Sensors-Accelerometer/dp/B008BOPN40/ref=sr_1_6?dchild=1&keywords=MPU6050&qid=1618351318&sr=8-6
+- MG90S Servo Unit: https://www.amazon.com/Compatible-Raspberry-Project-Helicopter-Airplane/dp/B08F56BB6C/ref=sr_1_7?crid=2X337CZD31JL7&dchild=1&keywords=mg90s+servo&qid=1618351350&sprefix=MG90S%2Caps%2C159&sr=8-7
+- PiSugar 2 Raspberry Pi 0 Battery Module: https://www.amazon.com/Pisugar2-Portable-Pwnagotchi-Raspberry-Accessories/dp/B08D678XPR/ref=sr_1_1?dchild=1&keywords=pisugar2+pi+0&qid=1618351384&sr=8-1
+- MM/MF/FF Jumper Cables: https://www.amazon.com/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_aps_sr_pg1_1?ie=UTF8&adId=A09453211EKPVOJ9591X9&url=%2FElegoo-EL-CP-004-Multicolored-Breadboard-arduino%2Fdp%2FB01EV70C78%2Fref%3Dsr_1_2_sspa%3Fdchild%3D1%26keywords%3Dgpio%2Bjumper%2Bcables%26qid%3D1618351411%26sr%3D8-2-spons%26psc%3D1&qualifier=1618351411&id=1672132939047645&widgetName=sp_atf
+
+## Future Parts (hpoing to fly a camera in the future)
+
+- Longrunner Raspberry Pi Camera: https://www.amazon.com/Raspberry-Camera-Vision-IR-Cut-Longruner/dp/B07R4JH2ZV/ref=sr_1_10?dchild=1&keywords=pi+camera&qid=1618351469&sr=8-10
+- Dorhea 15 Pin to 22 Pin Camera Cable: https://www.amazon.com/Dorhea-Raspberry-Camera-Ribbon-Specific/dp/B07H3L3LM2/ref=sr_1_6?dchild=1&keywords=pi+0+camera+cable&qid=1618351525&sr=8-6
