@@ -66,7 +66,7 @@ while status:
     spike_t = 0
     dep_time = 0
 
-    if count == 200:
+    if count == 168:
         GPIO.output(18, True)
         pwm.ChangeDutyCycle(5)
         time.sleep(1)
