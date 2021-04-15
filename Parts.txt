@@ -10,3 +10,11 @@
 
 - Longrunner Raspberry Pi Camera: https://www.amazon.com/Raspberry-Camera-Vision-IR-Cut-Longruner/dp/B07R4JH2ZV/ref=sr_1_10?dchild=1&keywords=pi+camera&qid=1618351469&sr=8-10
 - Dorhea 15 Pin to 22 Pin Camera Cable: https://www.amazon.com/Dorhea-Raspberry-Camera-Ribbon-Specific/dp/B07H3L3LM2/ref=sr_1_6?dchild=1&keywords=pi+0+camera+cable&qid=1618351525&sr=8-6
+
+### 3D Printing Materials
+
+- Creality Ender 3 Pro: https://www.google.com/aclk?sa=l&ai=DChcSEwjKpIuvo4DwAhWK4bMKHYnKAKAYABAAGgJxbg&ae=2&sig=AOD64_2APnX_lAOe014TWR_9biP2FVaAog&q&adurl&ved=2ahUKEwi1u4Kvo4DwAhXaMVkFHa8vAnMQ0Qx6BAgEEAE
+- Creality While Filament (PLA): https://creality3d.shop/collections/materials/products/pla-3d-printer-filament-1-75mm-1kg-spool-white
+- Hatchbox While Filament (PLA): https://www.hatchbox3d.com/collections/all-filaments/products/3d-ppla-1kg1-75-wht
+- MicroSwiss Direct Drive Extruder: https://store.micro-swiss.com/products/micro-swiss-direct-drive-extruder
+- Creality 4.7.2 Silent Mainboard: https://creality3d.shop/collections/silent-mainboard/products/creality3d-upgrade-silent-4-2-7-1-1-5-mainboard-for-ender-3-ender-3-pro-ender-5-3d-printer
