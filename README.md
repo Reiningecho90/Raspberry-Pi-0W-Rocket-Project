@@ -2,3 +2,8 @@
 Public Repo for the 'Flying Ostrich' flight computer and programs that go along with it.
 
 The Flying Ostrich is the rocket me, and three other kids are working on to begin learning about engineering. This is a good challenge for my Python skills as it needs to adjust to different supplied conditions. 
+
+Updates:
+- Projected launch day change, now looking at 15-16 of May rather than the 11th due to scheduling with launch club
+- Backup launch day chosen, Jun 12-13
+- Launch club website: https://mdrocketry.org/
