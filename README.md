@@ -7,3 +7,4 @@ Updates:
 - Projected launch day change, now looking at 15-16 of May rather than the 11th due to scheduling with launch club
 - Backup launch day chosen, Jun 12-13
 - Launch club website: https://mdrocketry.org/
+- Added changes to deploy program, starting testing once everything can get attached to the rocket
