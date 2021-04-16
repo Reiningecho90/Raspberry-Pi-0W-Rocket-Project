@@ -8,3 +8,4 @@ Updates:
 - Backup launch day chosen, Jun 12-13
 - Launch club website: https://mdrocketry.org/
 - Added changes to deploy program, starting testing once everything can get attached to the rocket
+- Looking to hold off camera due to how packed the bay is currently, may try to make space in the future
