@@ -1,0 +1,22 @@
+# Post Testing Review for 4/20/2021 Deployment Sequencing Tests
+
+## Goals for testing:
+
+- Provide vital information on flight readiness
+- Provide information on area of parachute bay
+- Gain understanding of physical mechanics for parachute deploy
+- Test under harsh conditions (ballistic speed, freefall, stationary)
+
+### Expected results:
+
+- Successful test of parachute deployment sequence at count +167-168
+- Successful deploy of bottom cover, with target velocity (1 or more m/s)
+- Successful rotation of servo, and good data from flight system
+- No overheat damage from battery, data unit or flight computer
+
+#### Actual Results:
+
+- Deployment sequence commenced at precisely count +168, following data reading
+- Bottom cover deployment at ~6ft/s or ~1.8m/s stable, testing not done in harsh conditions, or on ballistic due to lack of time
+- Servo rotation successful to 190° follow through, MPU6050 data was inverted due to improperly placed data unit. G values were constantly -1z meaning drift was minimal on unit, and data was in fact useable to the computer.
+- Battery skin peeling from mounting method, easy fix implemented, no other damage to systems. Post-test boot successful.
