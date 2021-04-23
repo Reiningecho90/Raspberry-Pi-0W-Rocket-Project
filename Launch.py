@@ -1,3 +1,4 @@
+# Imports
 from datetime import datetime
 import smbus
 import math
@@ -7,6 +8,7 @@ import pandas as pd
 import RPi.GPIO as GPIO
 
 
+# GPIO initialization 
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(18, GPIO.OUT)
 pwm = GPIO.PWM(18, 100)
@@ -56,9 +58,12 @@ address = 0x68
 
 bus.write_byte_data(address, power_mgmt_1, 0)
 
+# Misc value definitions
 count = 0
 status = True
 
+
+# Main launch loop
 while status:
 
     deploy = False
@@ -66,6 +71,7 @@ while status:
     spike_t = 0
     dep_time = 0
 
+    #deployment auto-sequence
     if count == 168:
         GPIO.output(18, True)
         pwm.ChangeDutyCycle(5)
@@ -78,6 +84,8 @@ while status:
     a_y = read_word_2c(0x3d)
     a_z = read_word_2c(0x3f)
 
+
+    # Data to screen output
     print ("\033c")
 
     print ("Accel")
@@ -106,6 +114,7 @@ while status:
 
     fail = False
 
+    # Data-spike output/failsafe
     if spike_t != dep_time:
         fail = True
         deploy = False
@@ -128,6 +137,8 @@ while status:
     time.sleep(0.1)
 
     count = count+1
+
+    # TD confirmation
     if not spike and count > 168:
         continue
     elif spike and count > 168:
@@ -153,6 +164,7 @@ status = True
 
 time.sleep(5)
 
+# Data review and shutdown
 while status:
     print ("\n")
     print ("Preparing data review systems, stand by for post-flight review.")
