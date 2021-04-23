@@ -1,4 +1,4 @@
-# Importa
+# Imports
 import picamera
 import time
 
