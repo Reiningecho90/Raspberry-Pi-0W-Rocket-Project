@@ -12,3 +12,4 @@ Updates:
 - Ribbon for camera delivered, testing soon
 - As mentioned on the issues page, the firsts tests for the deployment were succesful
 - Added camera script (launch-record.py)
+- Started new pull request, move scripts to main for ease of access
