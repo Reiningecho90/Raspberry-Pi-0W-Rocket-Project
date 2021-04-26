@@ -5,3 +5,4 @@ The Flying Ostrich is the rocket me, and three other kids are working on to begi
 
 Updates:
 - Final launch prep is underway, finishing up the rocket this week maybe
+- Upper stage being finished today, with all flight hardware installed, lastly nosecone ballast
