@@ -7,4 +7,4 @@ The Flying Ostrich is the rocket me, and three other kids are working on to begi
 
 - Added python file for launch
 - Added .csv for MPU6050 data (outdated)
-- TEsted both scripts at the same time, data was nominal but transfar blacked out around deploy. SHould be fine on launch day
+- Tested both scripts at the same time, data was nominal but transfar blacked out around deploy. SHould be fine on launch day
