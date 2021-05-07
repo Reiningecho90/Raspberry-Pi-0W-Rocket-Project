@@ -9,3 +9,4 @@ Updates:
 - Upper stage finished yesterday (4/26/2021) as all electronics are almost finished and ready for flight (4/27/2021)
 - Test Vehicle 1 flight compuer finished, parts for Test Vehicle 2 are being assembled ahead of testing
 - Moved code into a VS code folder as I am now coding primarily there
+- Final launch day chosen, May 15th 2021 (5/6/2021)
