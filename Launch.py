@@ -62,6 +62,9 @@ bus.write_byte_data(address, power_mgmt_1, 0)
 count = 0
 status = True
 
+# Countdown timer
+time.sleep(600)
+
 
 # Main launch loop
 while status:
