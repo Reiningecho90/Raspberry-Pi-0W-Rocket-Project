@@ -11,3 +11,4 @@ Updates:
 - Moved code into a VS code folder as I am now coding primarily there
 - Final launch day chosen, May 15th 2021 (5/6/2021)
 - Scrubbed launch on May 15th, Pi was not cooperting during testing so no data was transmitted over proposed network, issues will be worked out this month and new launch date is June 12th-13th (5/17/2021)
+- Radio transceiver coming soon
