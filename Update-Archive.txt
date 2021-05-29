@@ -11,3 +11,13 @@ Update Archive:
 - Added camera script (launch-record.py)
 - Started new pull request, move scripts to main for ease of access
 - Adjusted comments, preparing to make an update archive file
+
+4/26-5/19/2021
+- Final launch prep is underway, finishing up the rocket this week maybe
+- Upper stage being finished today, with all flight hardware installed, lastly nosecone ballast (4/26/2021)
+- Upper stage finished yesterday (4/26/2021) as all electronics are almost finished and ready for flight (4/27/2021)
+- Test Vehicle 1 flight compuer finished, parts for Test Vehicle 2 are being assembled ahead of testing
+- Moved code into a VS code folder as I am now coding primarily there
+- Final launch day chosen, May 15th 2021 (5/6/2021)
+- Scrubbed launch on May 15th, Pi was not cooperting during testing so no data was transmitted over proposed network, issues will be worked out this month and new launch date is June 12th-13th (5/17/2021)
+- Radio transceiver arrived (5/19/2021)
