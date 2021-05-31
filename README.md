@@ -7,5 +7,6 @@ PROGRESS REPORT: All systems are now functioning properly and are go for alunch 
 
 Updates:
 - Working on in-body testing and range testing, packet sending should be fine providing launch goes according to plan and datais correct (5/29/2021)
+- Everythin in place for launch, testing underway and launch still set for June 12th-13th weather permitting (5/30/2021)
 
 GO FOR LAUNCH JUNE 12-13!!! (Weather permitting)
