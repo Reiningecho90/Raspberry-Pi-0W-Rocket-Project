@@ -9,5 +9,6 @@ Updates:
 - Working on in-body testing and range testing, packet sending should be fine providing launch goes according to plan and datais correct (5/29/2021)
 - Everything in place for launch, testing underway and launch still set for June 12th-13th weather permitting (5/30/2021)
 - Scrubbed launch today due to unexpected hardware limitations, read progress report for in-depth. (6/12/2021)
+- Waiting for altimeter to arrive so we can test with it, this will involve new code but will most likely work for the rocket (6/30/2021)
 
 GO FOR LAUNCH JUNE 12-13!!! (Weather permitting)
