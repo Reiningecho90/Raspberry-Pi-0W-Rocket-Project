@@ -10,5 +10,6 @@ Updates:
 - Everything in place for launch, testing underway and launch still set for June 12th-13th weather permitting (5/30/2021)
 - Scrubbed launch today due to unexpected hardware limitations, read progress report for in-depth. (6/12/2021)
 - Waiting for altimeter to arrive so we can test with it, this will involve new code but will most likely work for the rocket (6/30/2021)
+- Altimiter should arrive by next Thursday, wiring and testing will be later that week/early that next week (6/21/2021)
 
 GO FOR LAUNCH JUNE 12-13!!! (Weather permitting)
