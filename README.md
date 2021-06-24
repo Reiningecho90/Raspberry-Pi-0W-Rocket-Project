@@ -12,3 +12,4 @@ Updates:
 - Waiting for altimeter to arrive so we can test with it, this will involve new code but will most likely work for the rocket (6/30/2021)
 - Altimiter should arrive by next Thursday, wiring and testing will be later that week/early that next week (6/21/2021)
 - Working on possible methods of deployment with altimiter, new ccode ideas are beign brainstormed (6/23/2021)
+- Alitmiter arrived today, wiring wil be done then working through code version 3 (6/24/2021)
