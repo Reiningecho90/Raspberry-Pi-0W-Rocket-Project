@@ -14,3 +14,4 @@ Updates:
 - Working on possible methods of deployment with altimiter, new ccode ideas are beign brainstormed (6/23/2021)
 - Alitmiter arrived today, wiring wil be done then working through code version 3 (6/24/2021)
 - Looking for documentation for specific altimeter (6/25/2021)
+- Pushed launch date further out due to travel, new date set for August 14th (6/25/2021)
