@@ -6,12 +6,4 @@ The Flying Ostrich is the rocket me, and three other kids are working on to begi
 PROGRESS REPORT: Scrubbed today due to hardware limitations. In testing limits were exceeded and at launch site the signal blacked out at half the tested range. The rocket made it to the pad but never took off. Unfortuinately if these issues can not be fixed there will have to be a retirement or a redesign.
 
 Updates:
-- Working on in-body testing and range testing, packet sending should be fine providing launch goes according to plan and datais correct (5/29/2021)
-- Everything in place for launch, testing underway and launch still set for June 12th-13th weather permitting (5/30/2021)
-- Scrubbed launch today due to unexpected hardware limitations, read progress report for in-depth. (6/12/2021)
-- Waiting for altimeter to arrive so we can test with it, this will involve new code but will most likely work for the rocket (6/30/2021)
-- Altimiter should arrive by next Thursday, wiring and testing will be later that week/early that next week (6/21/2021)
-- Working on possible methods of deployment with altimiter, new ccode ideas are beign brainstormed (6/23/2021)
-- Alitmiter arrived today, wiring wil be done then working through code version 3 (6/24/2021)
-- Looking for documentation for specific altimeter (6/25/2021)
-- Pushed launch date further out due to travel, new date set for August 14th (6/25/2021)
+- First test code finished, going to put the code onto the flight cpomputer as soon as possible to start testing (6/28/2021)
