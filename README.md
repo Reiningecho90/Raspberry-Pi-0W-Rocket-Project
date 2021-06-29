@@ -9,3 +9,4 @@ Updates:
 - First test code finished, going to put the code onto the flight cpomputer as soon as possible to start testing (6/28/2021)
 - Added the failsafe, program can not run on windows machine so migration will be later today or tomorrow (6/28/2021)
 - Posting code to github so I can transfer to Pi (6/29/2021)
+- Code is psted, moving to pi soon. For more updates refer to this issue: https://github.com/Reiningecho90/Raspberry-Pi-0W-Rocket-Project/issues/26 (6/29/2021)
