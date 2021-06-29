@@ -8,4 +8,4 @@ PROGRESS REPORT: Scrubbed today due to hardware limitations. In testing limits w
 Updates:
 - First test code finished, going to put the code onto the flight cpomputer as soon as possible to start testing (6/28/2021)
 - Added the failsafe, program can not run on windows machine so migration will be later today or tomorrow (6/28/2021)
-- Posting code to github so i can transfer to Pi (6/29/2021)
+- Posting code to github so I can transfer to Pi (6/29/2021)
