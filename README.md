@@ -13,3 +13,4 @@ Updates:
 - Moved code onto RPi and opened a series of issues regarding issues within the code that are not fatal to the program but possibly to the flight woithout proper fixes (7/6/2021)
 - New program does not support data retrieval although data stream would be interuppted normally so data wouldn't be of use (7/6/2021)
 - The above comment also applies to the camera, the camera wouldn't necesarily be used because of the internal data rate (7/6/2021)
+- Values will have to be formatted based on guess and check as they are not being scaled properly using the default code (7/24/2021)
