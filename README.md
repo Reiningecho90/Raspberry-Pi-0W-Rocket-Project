@@ -1,3 +1,5 @@
+# Project is on hold for now, may or may not restart it due to personal issues with continuing
+
 # Raspberry-Pi-0W-Rocket-Project
 Public Repo for the 'Flying Ostrich' flight computer and programs that go along with it.
 
